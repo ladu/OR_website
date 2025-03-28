@@ -1,0 +1,6 @@
+product_id,name,current_stock,unit_cost,lead_time_days,daily_demand
+A001,Product A,150,20.50,5,12
+A002,Product B,300,15.75,7,25
+A003,Product C,75,35.20,3,8
+B001,Product D,120,12.30,10,15
+B002,Product E,200,8.45,4,30
